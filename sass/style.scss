@@ -1,0 +1,30 @@
+.ContestPreview {
+  margin: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+  .categoryName {
+    border-bottom: 1px solid #ccc;
+    padding: 0.25em 0.5em;
+    font-weight: bold;
+    background-color: rgb(189, 189, 189);
+  }
+
+  .contestName {
+    padding: 0.5em;
+    background-color: lightgray;
+  }
+  >h2 {
+    padding-left: 0.25em;
+  }
+}
+
+.link {
+  cursor: pointer;
+ 
+}
+
+.home-link {
+  margin-top: 1em;
+  color: #545468;
+}
